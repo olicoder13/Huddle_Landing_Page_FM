@@ -30,16 +30,10 @@ body{
 }
 
 
-.container{
-    margin: 0 auto;
-    max-width: 1440px;
-}
 /*header*/
 .header{
     background-image: url(images/bg-hero-mobile.svg);
     background-size: cover;
-    background-repeat: ;
-    background-position: ;
     background-color: var(--very-pale-cyan);
     padding: 2rem;
     margin-bottom: 5rem;
@@ -335,8 +329,3 @@ body{
 
 }
 
-@media (min-width: 1440px) {
-  body{
-    background-color: rgba(172, 255, 47, 0.137);
-  }
-}
